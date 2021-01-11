@@ -1,0 +1,23 @@
+{
+  "name": "shariks-bot",
+  "version": "1.0.0",
+  "description": "This bot was created to satisfy my retarted sense of humour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artefall/shariks-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artefall/shariks-bot/issues"
+  },
+  "homepage": "https://github.com/Artefall/shariks-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  }
+}
